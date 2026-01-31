@@ -1,5 +1,5 @@
 PROJECT STRUCTURE
-ITPMNEW/
+ITPMnew/
 │── package.json
 │── package-lock.json
 │── playwright.config.js
